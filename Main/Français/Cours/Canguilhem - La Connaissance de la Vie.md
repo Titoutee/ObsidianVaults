@@ -6,14 +6,14 @@
 
 ---
 ## I] La singularité irréductible du vivant
- ### I.1) Les êtres vivants ne sont pas des machines
- ### I.2) Le vivant expériemente activement son milieu
+ I.1) Les êtres vivants ne sont pas des machines
+ I.2) Le vivant expériemente activement son milieu
 ## II] Spécificités et limites de l'expérimentation en biologie
- ### II.1) La connaissance du vivant doit s'ajuster à son objet
- ### II.2) L'expérimentation sur le vivant pose des problèmes éthiques
+ II.1) La connaissance du vivant doit s'ajuster à son objet
+ II.2) L'expérimentation sur le vivant pose des problèmes éthiques
 ## III] L'individualité; objet de la science du vivant et de la philosophie
- ### III.1) La médecine suppose de se mettre à l'écoute du malade mis à l'épreuve
- ### III.2) L'irrégularité et l'anomalie caractérisent l'existence même
+ III.1) La médecine suppose de se mettre à l'écoute du malade mis à l'épreuve
+ III.2) L'irrégularité et l'anomalie caractérisent l'existence même
 
 ---
 ## Introduction

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a93d25aa0ca4c3ab",
+    "id": "1aa8cc9f18b28f75",
     "type": "split",
     "children": [
       {
-        "id": "1c86be3b79b5e160",
+        "id": "fc358fac3374358c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef3584a998c7337",
+            "id": "e3615cf47f022755",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -18,36 +18,20 @@
             }
           }
         ]
-      },
-      {
-        "id": "cdecfcc4a9912ac2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "889e34f5981849b2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "edbdd50e8294ac7d",
+    "id": "6c3432cb1ce6d370",
     "type": "split",
     "children": [
       {
-        "id": "718fa2d22eab4d4b",
+        "id": "c27e8f12c77490f0",
         "type": "tabs",
         "children": [
           {
-            "id": "b80d7d5b63cf55fb",
+            "id": "d55a2e9ef498623c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +44,7 @@
             }
           },
           {
-            "id": "95813fcc19efcee8",
+            "id": "a25ddbe2529a6e1a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +61,7 @@
             }
           },
           {
-            "id": "4f822716899ffa1b",
+            "id": "416ad6b01ef07c15",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,22 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.5
   },
   "right": {
-    "id": "19400a90c4947f55",
+    "id": "17e5e668048ce755",
     "type": "split",
     "children": [
       {
-        "id": "922596416608581c",
+        "id": "3499586ad3369f71",
         "type": "tabs",
         "children": [
           {
-            "id": "e2106ff351da3678",
+            "id": "dd84aeffadf250eb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cours/Canguilhem - La Connaissance de la Vie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,24 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Canguilhem - La Connaissance de la Vie"
             }
           },
           {
-            "id": "b2a8dc61e42a7b02",
+            "id": "e4df7713c070b91e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cours/Canguilhem - La Connaissance de la Vie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Canguilhem - La Connaissance de la Vie"
             }
           },
           {
-            "id": "841cb40b2b6352ef",
+            "id": "8e3e6ce711d4ea55",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,7 +133,7 @@
             }
           },
           {
-            "id": "1325aa7e86f41833",
+            "id": "7b81636dd98761c4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,17 +147,18 @@
             }
           },
           {
-            "id": "ddd7e9df4d142799",
+            "id": "1915834f02b04ea4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Cours/Canguilhem - La Connaissance de la Vie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Canguilhem - La Connaissance de la Vie"
             }
           }
         ]
@@ -189,11 +176,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
+      "latex-ocr:LatexOCR": false
     }
   },
-  "active": "3ef3584a998c7337",
+  "active": "d55a2e9ef498623c",
   "lastOpenFiles": [
+    "Info",
+    "Physique",
+    "Maths",
+    "Français",
+    "Français/Cours/Canguilhem - La Connaissance de la Vie.md",
+    "Français/Cours/Haushofer - Le Mur Invisible.md",
+    "Français/Quotes/La Connaissance de la Vie - Quotes.md",
+    "Français/Cours/Verne - Vingt-Mille Lieues sous les Mers.md",
+    "La.md",
+    "[[La.md",
+    "Français/Side notes/La Connaissance de la Vie - Side Notes.md",
+    "Français/Side notes/Le Mur Invisible - Side Notes.md",
+    "().md",
+    "Français/Quotes/Le Mur Invisible - Quotes.md",
+    "Français/Quotes/Vingt-Mille Lieues sous les Mers - Quotes.md",
+    "Français/Méthode.md",
+    "Français/Quotes",
+    "Français/Side notes",
+    "2025-12-09.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Français/Cours",
     "Welcome.md"
   ]
 }
