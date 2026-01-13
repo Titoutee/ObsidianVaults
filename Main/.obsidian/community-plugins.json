@@ -1,8 +1,10 @@
 [
-  "obsidian-latex-suite",
   "latex-ocr",
   "obsidian-underline",
   "ink",
   "obsidian-html-tags-autocomplete",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "quick-latex",
+  "easy-typing-obsidian",
+  "obsidian-wrap-with-shortcuts"
 ]

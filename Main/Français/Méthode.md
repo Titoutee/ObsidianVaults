@@ -7,4 +7,3 @@
 	- **Problématique**: ne pas se contenter de "Comment..." -> question trop vague / trop naïve
 	- Ne pas rédiger l'introduction
 	- Annonce du plan = parties nommées avec des phrases complètes
-	- 

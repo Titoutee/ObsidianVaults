@@ -11,10 +11,24 @@
             "id": "e3615cf47f022755",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Français/Cours/Canguilhem - La Connaissance de la Vie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Canguilhem - La Connaissance de la Vie"
             }
           }
         ]
@@ -181,28 +195,35 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "d55a2e9ef498623c",
+  "active": "e3615cf47f022755",
   "lastOpenFiles": [
+    "Français/Entraînement à la Dissertation.md",
+    "Français/Méthode.md",
+    "Français/Cours/Canguilhem - La Connaissance de la Vie.md",
+    "Français/Cours/Verne - Vingt-Mille Lieues sous les Mers.md",
+    "Français/Cours/Haushofer - Le Mur Invisible.md",
+    "Info/Autres preuves.md",
+    "Français/Corrections DS/Dissertation - Milan Kundera.md",
+    "Physique/ELECTROMAG I.md",
+    "Français/Corrections DS",
+    "Untitled",
+    "La.md",
+    "Maths/Test.md",
+    "Untitled.base",
     "Info",
     "Physique",
     "Maths",
     "Français",
-    "Français/Cours/Canguilhem - La Connaissance de la Vie.md",
-    "Français/Cours/Haushofer - Le Mur Invisible.md",
     "Français/Quotes/La Connaissance de la Vie - Quotes.md",
-    "Français/Cours/Verne - Vingt-Mille Lieues sous les Mers.md",
-    "La.md",
     "[[La.md",
     "Français/Side notes/La Connaissance de la Vie - Side Notes.md",
     "Français/Side notes/Le Mur Invisible - Side Notes.md",
     "().md",
     "Français/Quotes/Le Mur Invisible - Quotes.md",
     "Français/Quotes/Vingt-Mille Lieues sous les Mers - Quotes.md",
-    "Français/Méthode.md",
     "Français/Quotes",
     "Français/Side notes",
     "2025-12-09.md",
-    "Untitled.base",
     "Untitled.canvas",
     "Français/Cours",
     "Welcome.md"
