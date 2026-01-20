@@ -73,4 +73,4 @@ Ainsi, le vivant échappe à toute tentative de réduction. Sa connaissance ne p
 
 ---
 
-Canguilhem conçoit la philosophie comme un moyen d'aborder des problèmes humains *concrets*, ceux qui tiennent à la ***réalité biologique de l'homme***.
+Canguilhem conçoit la philosophie comme un moyen d'aborder des problèmes humains *concrets*, ceux qui tiennent à la ***réalité biologique de l'homme***. Il entreprend des études de médecine à l'âge de 32 ans non pas pour exercer en tant que médecin mais, dit-il, pour "ajouter" aux connaissances d'"ordre livresque" acquises en philosophie, quelques connaissances d'expérience. Aujourd'hui encore, sa thèse soutenue en 1943 "Le normal et le pathologique" est commentée dans de nombreux établissements hospitaliers. La question centrale qu'il pose est celle de l'expérimentation sur le vivant. Concernant les animaux, il admet qu'elle est souvent utile
