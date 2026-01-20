@@ -174,13 +174,23 @@
               "icon": "lucide-list",
               "title": "Outline of Canguilhem - La Connaissance de la Vie"
             }
+          },
+          {
+            "id": "6d387de98c8b5e31",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +202,8 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "bases:Create new base": false,
-      "latex-ocr:LatexOCR": false
+      "latex-ocr:LatexOCR": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e3615cf47f022755",
