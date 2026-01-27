@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Canguilhem - La Connaissance de la Vie"
             }
+          },
+          {
+            "id": "12b56c885db67e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Français/Cours/Canguilhem - La Connaissance de la Vie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Canguilhem - La Connaissance de la Vie"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3615cf47f022755",
+  "active": "12b56c885db67e69",
   "lastOpenFiles": [
-    "Français/Entraînement à la Dissertation.md",
     "Français/Méthode.md",
+    "Français/Entraînement à la Dissertation.md",
     "Français/Cours/Canguilhem - La Connaissance de la Vie.md",
     "Français/Cours/Verne - Vingt-Mille Lieues sous les Mers.md",
     "Français/Cours/Haushofer - Le Mur Invisible.md",
